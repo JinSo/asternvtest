@@ -15,7 +15,7 @@ import { DefaultTheme } from "styled-components";
 const dark: DefaultTheme = {
   yellow: "hsla(29, 96%, 56%, 1)", //dark-orange
 
-  green: "hsla(162, 95%, 34%, 1)", //green-munsell
+  green: "hsla(300, 76%, 72%, 1)", //green-munsell
 
   red: "hsla(332, 97%, 43%, 1)", //dogwood-rose   red: "hsla(4, 66%, 41%, 1)", //firebrick
   dark: "hsla(300, 33%, 2%, 1)", //rich-black-fogra
